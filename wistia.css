@@ -1,0 +1,200 @@
+.navbar {
+    display: flex; justify-content: space-around; height:100px; margin-bottom: 10px; margin-top:10px;
+}
+.listes {
+    font-size: 1.5em;
+    width: 30%;
+    justify-content: space-around;
+    font-family: 'Concert One', cursive;
+}
+.listes :hover{
+    color: green
+}
+.buttons button{
+    background-color: transparent;
+    border-width: 1px;
+    height: 100px;
+    width: 100px;
+    border: 2px solid transparent;
+    border-radius: 5px;
+    color:rgb(6, 145, 242);
+    font-size: 1.2em;
+}
+
+.part1 {
+    background: #c896a5;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 650px;
+}
+.dropdown{
+    text-decoration: none;
+    color: black;
+}
+.sp1{
+    color: white;
+}
+.gif1 {
+    height: 66%;
+}
+.titre1{
+    font-family: 'Concert One', cursive;
+    font-size: 3em;
+}
+.titre1 button{
+    background-color: whitesmoke;
+    border-radius: 5px;
+    color:black;
+    width: 200px;
+    height: 70px;
+    font-size: 20px;
+
+
+}
+.part2{
+    height: 400px;
+    display: flex;
+}
+.jaune{
+    background-color: #FED24A;
+}
+.vert{
+    background-color: rgb(81, 194, 159);
+}
+.bleu{
+    background-color: #3EA9F5 ;
+}
+.blo{
+    width: 40%;
+}
+.blo p{font-family: 'Concert One', cursive;
+    font-size: 1.5em;
+    text-align: center;
+}
+.blo button{
+    margin-left: 70px; 
+    width:200px ;
+    height: 70px;
+    background-color:transparent;
+    border: 2px solid whitesmoke;
+    color: whitesmoke;
+    font-size: 1.2em;
+    border-radius: 5px;
+    border-width: 1px;
+}   
+
+button:hover{
+    background-color:grey
+}
+.blo img{
+    margin-left:40px;
+}
+.blo img{
+    margin-top: 10px;
+}
+.blo a{
+    color:black;
+}
+.blo a:hover{
+    color:green
+}
+.sponsors{
+    display: flex;
+    justify-content:space-around;
+    height: 250px;
+    margin-top:150px; 
+
+}
+.sponsors p{
+    font-family: 'Concert One', cursive;
+    text-align: center;
+    color: grey;
+}
+.pictures{
+    display: flex;
+    justify-content:space-around;
+    height: 600px;
+}
+.pictures p{
+    font-family: 'Concert One', cursive;
+    text-align: left;
+}
+.pictures a{
+    font-family: 'Concert One', cursive;
+    text-align: center;
+    color: #3EA9F5
+}
+.pictures a:hover{
+    color: green;
+}
+.grey {
+    height: 100px;
+    background-color:#efefef;
+    text-align: center;
+    font-family: 'Concert One', cursive;
+    font-size: 1.5em;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: grey
+}
+.grey a{
+    color: grey
+}
+.grey a:hover{
+    color: green
+}
+.black{
+    height: 350px;
+    background-color:#2a2d35;
+    font-family: 'Concert One', cursive;
+    display: flex;
+    font-size: 1.5em;
+    color: white;
+    justify-content: space-around;
+}
+.black a{
+    text-decoration-line: none
+}
+.black a:hover{
+    color: green
+}
+.black1{
+    margin-top:2%;
+}
+.para2 a{
+    color: #3EA9F5;
+}
+.black2{
+    display: flex;
+    margin-top: 5%;
+    margin-right:2%;
+    
+}
+.black2 li:first-of-type{
+    font-size: 32px;
+}
+ul{
+    list-style: none;
+}
+.black2 a{
+    color: whitesmoke;
+}
+.black3{
+    height: 100px;
+    background-color:#2a2d35;
+    text-align: center;
+    font-family: 'Concert One', cursive;
+    font-size: 1.5em;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: grey
+}
+.black3 a{
+    color: grey;
+}
+.black3 a:hover{
+    color: green;
+}
